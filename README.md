@@ -21,3 +21,8 @@ The main data is in the "Data Final Pop.dta" file.
 ## Methodology
 The data was analysed using a Fixed-Effects model within the established framework of the Gravity equation in international trade. 
 I used STATA for the data cleaning, exploration and the econometrics. 
+<img src="https://github.com/favicon.ico" width="48">
+
+### Models used:
+<img src="FE Model 1 Trade.png" width="750" height="250">
+<img src="FE Model 2 Trade.png" width="750" height="250">
